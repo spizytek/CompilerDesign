@@ -1,0 +1,3 @@
+/home/techist/Downloads/CompilerDesign/build/CMakeFiles/hydro.dir
+/home/techist/Downloads/CompilerDesign/build/CMakeFiles/edit_cache.dir
+/home/techist/Downloads/CompilerDesign/build/CMakeFiles/rebuild_cache.dir
